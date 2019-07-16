@@ -1,9 +1,9 @@
 def create_an_empty_array
   []
 end
-hero = ["Tony Stark","Bruce Banner","Nick Fury","Steve Rogers"]
+
 def create_an_array
-  
+ hero = ["Tony Stark","Bruce Banner","Nick Fury","Steve Rogers"] 
 end
 
 def add_element_to_end_of_array(array, element)
