@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-["Tony Stark","Bruce Banner","Nick Fury","Steve Rogers"]
+hero.new["Tony Stark","Bruce Banner","Nick Fury","Steve Rogers"]
 def create_an_array
   
 end
